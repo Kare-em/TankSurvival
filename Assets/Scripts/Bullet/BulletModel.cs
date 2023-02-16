@@ -1,6 +1,4 @@
-﻿using UnityEngine;
-
-namespace Bullet
+﻿namespace Bullet
 {
     public class BulletModel
     {

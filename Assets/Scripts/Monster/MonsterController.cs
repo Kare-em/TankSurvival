@@ -1,8 +1,6 @@
-﻿using System;
-using Entity;
+﻿using Entity;
 using Tank;
 using UnityEngine;
-using UnityEngine.AI;
 
 namespace Monster
 {

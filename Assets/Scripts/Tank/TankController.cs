@@ -1,5 +1,4 @@
-﻿using System;
-using Entity;
+﻿using Entity;
 using UnityEngine;
 
 namespace Tank
