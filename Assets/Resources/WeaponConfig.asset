@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a05245132547488c87a99a09b6d4afae, type: 3}
+  m_Name: WeaponConfig
+  m_EditorClassIdentifier: 
+  _weaponTypes:
+  - _damage: 5
+    _reloadingTime: 0.4
+    _speed: 20
+    _poolBulletCount: 20
+    _weaponPrefab: {fileID: 2346016720273997490, guid: 99d32de61eff68b4da31e43956675b0f, type: 3}
+    _bulletPrefab: {fileID: 6062381978928463354, guid: 3081efbf3a13c7641a4726d238f1ae65, type: 3}
+  - _damage: 10
+    _reloadingTime: 0.29
+    _speed: 15
+    _poolBulletCount: 20
+    _weaponPrefab: {fileID: 2346016720273997490, guid: e11dfc63114edea449fbc0f8371178ff, type: 3}
+    _bulletPrefab: {fileID: 6062381978928463354, guid: 489000edced06c6459744cdf1e4511eb, type: 3}
+  - _damage: 20
+    _reloadingTime: 0.3
+    _speed: 4
+    _poolBulletCount: 20
+    _weaponPrefab: {fileID: 2346016720273997490, guid: 62f5dee183c18164db287008d8bfda73, type: 3}
+    _bulletPrefab: {fileID: 6062381978928463354, guid: bd742f920031d9849a2297260335aa5c, type: 3}
